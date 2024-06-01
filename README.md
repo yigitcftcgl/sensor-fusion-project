@@ -1,3 +1,8 @@
+![Graphics2](https://github.com/yigitcftcgl/sensor-fusion-project/assets/59434876/b1fa0827-5fc6-401e-962c-5487fb5b0334)
+![Graphics3](https://github.com/yigitcftcgl/sensor-fusion-project/assets/59434876/3973143d-63bd-46c8-85b5-20295283230f)
+![graphics4](https://github.com/yigitcftcgl/sensor-fusion-project/assets/59434876/cb317596-c492-4ede-b079-3667693c420e)
+![graphics5](https://github.com/yigitcftcgl/sensor-fusion-project/assets/59434876/2af91cfa-12f5-4fff-9b1a-149e43b4957a)
+
 # Sensor Fusion Project
 
 This repository contains data and code for the sensor fusion project using GPS NEO-M8N and MPU-6050 sensors to model driver behavior during various driving conditions, including sudden braking and normal acceleration.
@@ -65,3 +70,5 @@ In this project, I conducted a braking test on a bus and collected data using Ar
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/sensor-fusion-project.git
+
+![Graphics6](https://github.com/yigitcftcgl/sensor-fusion-project/assets/59434876/4b85aba4-8e84-4e9d-8e9c-cddf23e2e80f)
