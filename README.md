@@ -63,7 +63,7 @@ In this project, I conducted a braking test on a bus and collected data using Ar
 
 - **Notebooks:**
   - `Data Preprocessing.ipynb`: Initial data analysis notebook.
-  - `Untitled2.ipynb`: Further data analysis notebook.
+  - `Sensor Fusion.ipynb`: Further data analysis notebook.
 
 ## How to Use
 
